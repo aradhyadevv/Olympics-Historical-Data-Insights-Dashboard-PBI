@@ -1,4 +1,4 @@
-# Olympics History Dashboard
+# Olympics Historical Data Insights Dashboard
 
 ### Dashboard Link : https://app.powerbi.com/links/K87NOujQsY?ctid=fd1266d7-62fb-4683-852f-417261402a2c&pbi_source=linkShare
 
